@@ -7,9 +7,9 @@ Currently, only team members and CHN board members can request write access to [
 
 ## People With Access
 
-| Gmail Address | Permissions | Directories |
-| --- | --- | --- |
-| TBA | | |
+| GitHub username | Gmail Address | Permissions | Directories |
+| --- | --- | --- | --- |
+| @AndreiJirohHaliliDev2006 | andreijiroh*****24680@gmail.com | Manager |
 
 ## DMCA Takedowns
 Request takedowns through [the public issue tracker](https://github.com/MadeByThePinsHub/TeamGDrive-docs/issues). Please make sure that you're either the **copyright owner or an authorized representive**.
