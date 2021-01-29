@@ -4,7 +4,7 @@
 Currently, only team members and CHN board members can request write access to [the team drive, including private files][team-gdrive-link] while everybody can access public files in read-only mode through [this link here][pub-files-dir].
 
 [pub-files-dir]: https://drive.google.com/drive/u/0/folders/1nJmv998SGnlPisgnqF_Iz93KszeDmQmC
-[team0gdrive-link]: https://drive.google.com/drive/u/0/folders/0AIxFCS2BejmGUk9PVA
+[team-gdrive-link]: https://drive.google.com/drive/u/0/folders/0AIxFCS2BejmGUk9PVA
 
 ## People With Access
 
